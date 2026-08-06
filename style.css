@@ -21,7 +21,7 @@ body{
 }
 
 .qr-image{
-    background: url(../images/image-qr-code.png);
+    background: url(image-qr-code.png);
     height: 288px;
     background-repeat: no-repeat;
     background-size: cover;
